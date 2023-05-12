@@ -16,5 +16,5 @@ The app uses local storage as the storage mechanism for the notes. This means th
 
 ## Contributors
 
-- [Your Name](https://github.com/bharath-bijjam)
+- [Bharath Bijjam](https://github.com/bharath-bijjam)
 
