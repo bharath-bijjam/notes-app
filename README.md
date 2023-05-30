@@ -1,6 +1,6 @@
 # Note App
 
-This is a simple note-taking web application built using JavaScript. The app uses local storage as the storage mechanism for the notes.
+This is a simple note-taking web application built using JavaScript. The app uses local storage as the storage mechanism for the note.
 
 ## Usage
 
